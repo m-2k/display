@@ -1,6 +1,10 @@
 # Display
 High-quality copy of display of Panasonic sound system.
 
+# Dependencies
+
+* [Paper.JS](https://github.com/paperjs/paper.js)
+
 # Usage
 
 * Set Canvas node for rendering display
