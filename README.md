@@ -1,5 +1,5 @@
 # Display
-High-quality copy of CRT-display of Panasonic sound system.
+High-quality copy of display of Panasonic sound system.
 
 # Usage
 
